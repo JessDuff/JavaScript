@@ -14,7 +14,8 @@
    Cuando se llama a la variable "quantity" no hay resultado.
    
 ### Console Practice #2
-   Asigne un numero entero para 'age' y un Strign para 'city'.
-   ![Different variables](images/ss_js1.png)
+   * Asigne un numero entero para 'age' y un Strign para 'city'.
+   
+   * ![Different variables](images/ss_js1.png)
    
 ### Partner Challenge

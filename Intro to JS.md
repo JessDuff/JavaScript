@@ -27,3 +27,16 @@ Es una propiedad que indica que a una variable no se le ha asignado ningun valor
 ### Conditional -Your Turn
 
 ![Conditional](images/ss_js3.png)
+
+### In your journal
+
+1. String, Integer, Boolean, null, undefined
+2. They are useful for storing values e.g. val name = "Jess";
+3. Concatenation: "Good" + " Morning" + " Starshine" + "!";
+   Template literal: `Good Morning Starshine!`;
+4. if(condition){
+	something;
+   }else{
+   	something else;
+   }
+5. Por que al declarar una variable y darle un valor, en la consola sigue dando 'undefined'?

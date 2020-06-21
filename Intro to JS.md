@@ -21,3 +21,9 @@ Es una propiedad que indica que a una variable no se le ha asignado ningun valor
    * ![Different variables](images/ss_js1.png)
    
 ### Partner Challenge
+
+     ![Ages](images/ss_js2.png)
+     
+### Conditional -Your Turn
+
+     ![Conditional](images/ss_js3.png)

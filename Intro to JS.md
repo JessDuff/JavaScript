@@ -18,7 +18,7 @@ Es una propiedad que indica que a una variable no se le ha asignado ningun valor
 ### Console Practice #2
    * Asigne un numero entero para 'age' y un Strign para 'city'.
    
-   * ![Different variables](images/ss_js1.png)
+![Different variables](images/ss_js1.png)
    
 ### Partner Challenge
 

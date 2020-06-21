@@ -1,9 +1,11 @@
 ### History of JavaScript
    May ——> Mayhem
+   
    Butterfly ——-> Butter
    
 ### Data Types Jigsaw
-    Es una propiedad que indica que a una variable no se le ha asignado ningun valor. Se la puede usar en una condicion por ejemplo:
+Es una propiedad que indica que a una variable no se le ha asignado ningun valor. Se la puede usar en una condicion por ejemplo:
+
     ```
     if(x == undefined){
 	    //Algo pasa

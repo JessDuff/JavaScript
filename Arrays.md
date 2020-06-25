@@ -1,3 +1,3 @@
 ### Your Turn
 
-![Arays](images/ss-js11.png)
+![Arrays](images/ss_js11.png)

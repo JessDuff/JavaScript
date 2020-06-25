@@ -3,7 +3,6 @@
 * Sum
 
   ![Sum](images/ss_js4.png)
-
 * Equations 
 
   ![Equations](images/ss_js5.png)
@@ -12,13 +11,13 @@
 
   ![Random](images/ss_js6.png)
 
-#### Try it out
+### Try it out
 
   ![SimpleMath](images/ss_js7.png)
 
 La funcion no tiene retorno.
 
-#### You Do
+### You Do
 
 * Say Something 
 

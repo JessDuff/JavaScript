@@ -3,6 +3,7 @@
 * Sum
 
   ![Sum](images/ss_js4.png)
+  
 * Equations 
 
   ![Equations](images/ss_js5.png)

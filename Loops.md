@@ -8,10 +8,11 @@
 
 ### Medium Heat: Annoying Zoo Kid
 
-![Annoying Zoo](images/ss_js15.png)
+![Annoying Zoo](images/ss_js16.png)
+
 
 ### Spicy: Pet Paragraph
 
 ![Pet Names](images/ss_js15.png)
 
-* 'res' only logs to the last pet, because the paragraph variable is inside the 'for' and is overwritten in each loop.
+'res' only logs to the last pet, because the paragraph variable is inside the 'for' and is overwritten in each loop.

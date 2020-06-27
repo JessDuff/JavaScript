@@ -50,5 +50,31 @@ function bestClient(){
 ```
 ![Best Client](images/ss_js20.png)
 
+### Sum of Two
+
+```
+function sumOfTwo(numbers){
+    if(numbers == null){
+        console.log("Please, enter an array");
+    }else{
+        var i = 0;
+        a = numbers[i];
+        b = numbers[i];
+        for(i = 0; i < numbers.length; i++){
+            if(numbers[i] < a){
+                a = numbers[i];
+                var x = i;
+            }
+        }
+        for(var i = 0; i < numbers.length; i++){
+            if((numbers[i] < b) && (i != x)){
+                b = numbers[i];
+            }
+        }
+      return a + b;
+    }
+}
+```
+![Sum Of Two](images/ss_js21.png)
 
 

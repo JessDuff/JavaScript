@@ -77,4 +77,34 @@ function sumOfTwo(numbers){
 ```
 ![Sum Of Two](images/ss_js21.png)
 
+### Find the Odd (or Even) One Out
 
+```
+function oneOut(num){
+  if(num.length < 3){
+    console.log("Please, enter at least 3 elements.")
+  }else{
+    var contEven = 0;
+    var contOdd = 0;
+    var even = 0;
+    var odd = 0;
+    var res = 0;
+    for(var i = 0; i < num.length; i++){
+      if(num[i] % 2 == 0){
+        contEven++;
+        even = num[i];
+      }else{
+        contOdd++;
+        odd = num[i];
+      }
+    }
+    if(contEven == 1){
+      res = even;    
+    }else{
+      res = odd;
+    }
+    return res;
+  }
+}
+```
+![One Out](images/ss_js22.png)

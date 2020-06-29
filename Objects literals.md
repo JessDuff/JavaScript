@@ -13,3 +13,7 @@
 * An object is a representation of real world things
 * It is made up of key value pairs that holds a value.
 * Methods.
+
+### Final Practice: Access and Update
+
+[Access and Update](https://repl.it/@jessduff/Partner-Practice)

@@ -8,6 +8,7 @@
 
 ### Stop and Reflect
 
+* ```var animal = { type: "dog", color: "black", name: "Firulais", };``` 
 * var object = {};
 * An object is a representation of real world things
 * It is made up of key value pairs that holds a value.

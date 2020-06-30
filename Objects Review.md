@@ -39,3 +39,8 @@ function message(student) {
   console.log(student.name + " is one of our awesome " + student.program + " students, currently in module " + student.module + "!");
 }
 ```
+
+![Objects as Arguments](images/ss_js27.png)
+
+### Challenge
+

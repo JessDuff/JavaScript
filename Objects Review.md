@@ -44,3 +44,18 @@ function message(student) {
 
 ### Challenge
 
+```
+var student = {
+  name: "Allie",
+  program: "Front End",
+  module: 1,
+  alum: false,
+  projects: ["Dog Party", "Number Guesser", "Check Yo Self"]
+}
+function projects() {
+  var last = " and " + student.projects.slice(student.projects.length - 1);
+  var p = student.projects.slice(0, student.projects.length - 1);
+  console.log(student.name + " is an awesome " + student.program + " student! They have built the following projects: " + p + last);
+}
+```
+![Challenge](images/ss_js28.png)
